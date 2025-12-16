@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Data Science.<br>I'm currently analyzing the different datasets to improve my skills.<br>I'm looking to collaborate on ML projects.
+I'm currently learning Data Science.<br>I'm currently analysing the different datasets to improve my skills.<br>I'm looking to collaborate on ML projects.
 
 
 ## 🌐 Socials:
